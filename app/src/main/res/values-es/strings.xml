@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rpplaboratorio</string>
+    <string name="edit">Editar</string>
+    <string name="modelodelauto">Modelo del auto</string>
+    <string name="marcadelauto">Marca del auto</string>
+    <string name="hintmarca">Marca</string>
+    <string name="hintmodelo">Modelo</string>
+    <string name="anio">año</string>
+    <string name="EditarAuto">Editar Auto</string>
+</resources>

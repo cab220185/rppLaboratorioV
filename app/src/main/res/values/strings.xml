@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">rpplaboratorio</string>
+    <string name="edit">Edit</string>
+    <string name="modelodelauto">Car Model</string>
+    <string name="marcadelauto">Car Brand</string>
+    <string name="hintmarca">Brand</string>
+    <string name="hintmodelo">Model</string>
+    <string name="anio">year</string>
+    <string name="EditarAuto">Edit Car</string>
+</resources>
